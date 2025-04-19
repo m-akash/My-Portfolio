@@ -156,3 +156,85 @@ main section {
   letter-spacing: 0%;
   text-align: left;
 }
+
+.sum-res-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 135px;
+}
+
+.education-details {
+  width: 511px;
+  height: 175px;
+  left: 230px;
+  right: 859px;
+  top: 2839px;
+  bottom: 1242px;
+}
+
+.education-title {
+  color: rgb(71, 71, 71);
+  margin-bottom: -10px;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: left;
+}
+
+.education-time {
+  color: rgb(117, 117, 117);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 16px;
+  text-align: left;
+}
+
+.education-description {
+  color: rgb(117, 117, 117);
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.experience-details {
+  width: 511px;
+  height: 175px;
+  left: 230px;
+  right: 859px;
+  top: 2839px;
+  bottom: 1242px;
+}
+
+.experience-title {
+  color: rgb(71, 71, 71);
+  margin-bottom: -10px;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: left;
+}
+
+.experience-time {
+  color: rgb(117, 117, 117);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 16px;
+  text-align: left;
+}
+
+.experience-description {
+  color: rgb(117, 117, 117);
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+
+.cv-btn {
+  margin-top: -140px;
+}
